@@ -1,4 +1,4 @@
-###Check DB Connect
+### Check DB Connect
 ```sh
     DB::connection()->getPdo() 
 ```
